@@ -1,0 +1,4 @@
+com\shopsphere\controller\ProductServlet.class
+com\shopsphere\dao\ProductDAO.class
+com\shopsphere\model\Product.class
+com\shopsphere\util\DBConnection.class
